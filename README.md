@@ -70,37 +70,7 @@ IoT-based weather monitoring project using a microcontroller and sensors.
 
 <td width="50%" valign="top">
 
-## Zomato Restaurant Analytics
 
-End-to-end restaurant analytics project involving data transformation, dimensional modeling and dashboard-based analysis.
-
-**Stack:** SQL · dbt · Snowflake · Tableau
-
-<a href="https://github.com/sourabhk2003/zomato-restaurant-analytics">
-<img src="https://img.shields.io/badge/View%20Project-0E75B6?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## Breast Cancer Prediction
-
-Machine learning project for classification and prediction using a breast cancer dataset.
-
-**Focus:** Python · Machine Learning · Data Science
-
-<a href="https://github.com/sourabhk2003/Breast_Cancer_Prediction">
-<img src="https://img.shields.io/badge/View%20Project-0E75B6?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</td>
-
-<td width="50%" valign="top">
 
 ## Automatic Licence Plate Recognition
 
