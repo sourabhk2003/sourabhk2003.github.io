@@ -1,194 +1,129 @@
-# sourabhk2003.github.io
 # Hi, I'm Sourabh Kushwah
 
-<p align="center">
-  <strong>B.Tech IT Student | Python | SQL | Data Analytics | AI</strong>
-</p>
+**B.Tech IT | Python | SQL | Data Analytics | AI & Machine Learning**
 
-<p align="center">
-  <a href="https://github.com/sourabhk2003">
-    <img src="https://komarev.com/ghpvc/?username=sourabhk2003&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
-  </a>
-  <a href="https://github.com/sourabhk2003?tab=followers">
-    <img src="https://img.shields.io/github/followers/sourabhk2003?label=Followers&style=flat" alt="Followers">
-  </a>
-</p>
+I'm interested in solving real-world problems through Python, SQL, data analytics, and AI. I'm continuously improving my programming and problem-solving skills by building projects and practicing DSA.
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=0E75B6&center=true&vCenter=true&width=650&lines=Building+with+Python+and+SQL;Exploring+Data+Analytics+and+AI;Learning+by+Building+Practical+Projects" alt="Typing Intro">
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=sourabhk2003&color=blue)
+[![GitHub Followers](https://img.shields.io/github/followers/sourabhk2003?style=social)](https://github.com/sourabhk2003)
 
 ---
 
 ## About Me
 
-I'm **Sourabh Kushwah**, an undergraduate **B.Tech Information Technology student specializing in AI & Robotics**.
-
-I'm interested in **Python, SQL, Data Analytics, Machine Learning and AI application development**. I enjoy learning by building practical projects and experimenting with new technologies.
-
-- Currently strengthening Python and SQL
-- Exploring Data Analytics and Machine Learning
-- Learning Generative AI and LLM applications
-- Practicing DSA and problem solving
-- Interested in entry-level IT, Data Analytics and AI opportunities
-
----
+- B.Tech in Information Technology, specializing in AI and Robotics
+- Interested in Python, SQL, Data Analytics, Machine Learning, and AI applications
+- Familiar with Excel, Power BI, Tableau, and BigQuery
+- Practicing Data Structures and Algorithms
+- Currently learning Machine Learning, Generative AI, and RAG
+- Working toward a career in data analytics and AI
 
 ## Tech Stack
 
+### Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Data Analytics and BI
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
+
+### Tools and Development
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+
+---
+
+## Featured Projects
+
+### 1. Smart Weather Station
+
+A weather monitoring project using sensors and a microcontroller.
+
+[View Repository](https://github.com/sourabhk2003/Smart-Weather-Station)
+
+### 2. Automatic Licence Plate Recognition
+
+A computer vision project for detecting and recognizing vehicle licence plates.
+
+[View Repository](https://github.com/sourabhk2003/Automatic-Licence-Plate-Recognition)
+
+### 3. Music Controller by Hand
+
+A computer vision project that uses hand gestures to control music playback.
+
+[View Repository](https://github.com/sourabhk2003/Music_Controller_by_Hand)
+
+### 4. Zoom Any Picture Using Hand Gestures
+
+A project that uses hand gestures to zoom in on images.
+
+[View Repository](https://github.com/sourabhk2003/Zoom-Any-Picture-Using-Hand-Gestures-)
+
+---
+
+## Coding Practice
+
+- [Data Structures and Algorithms](https://github.com/sourabhk2003/data-structures-algorithms)
+- [HackerRank Solutions](https://github.com/sourabhk2003/HackerRank)
+- [CS50x Assignments 2025](https://github.com/sourabhk2003/CS50x_Assignments_2025)
+
+---
+
+## Certifications
+
+### 1. CS50's Introduction to Computer Science
+
+[![Harvard CS50 Certificate](https://img.shields.io/badge/Harvard_CS50-View_Certificate-8B0000?style=for-the-badge&logo=harvard&logoColor=white)](https://cs50.harvard.edu/certificates/fea61895-8aea-4e4e-ab6b-8ae7cc3fab42)
+
+### 2. Accenture North America Data Analytics and Visualization Job Simulation
+
+[![Forage Certificate](https://img.shields.io/badge/Forage-View_Certificate-005EB8?style=for-the-badge)](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/T6kdcdKSTfg2aotxT/hzmoNKtzvAzXsEqx8_T6kdcdKSTfg2aotxT_deNh3Y2YfMHSpKwav_1738080151532_completion_certificate.pdf)
+
+### 3. OpenCV Bootcamp
+
+[![OpenCV Certificate](https://img.shields.io/badge/OpenCV_University-View_Certificate-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://courses.opencv.org/certificates/c7511705e6f64b8c8bc4980b1447a912)
+
+### 4. Programming Fundamentals Using Python, Part 1
+
+[![Infosys Springboard Certificate](https://img.shields.io/badge/Infosys_Springboard-View_Certificate-007CC3?style=for-the-badge)](https://infyspringboard.onwingspan.com/public-assets/infosysheadstart/cert/lex_auth_0125409616243425281061_shared/1-be6810ef-aed2-48ce-b78c-8c156f1dbb44.pdf)
+
+[View my LinkedIn profile](https://www.linkedin.com/in/sourabh-kushwah/)
+
+---
+
+## GitHub Statistics
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,mysql,git,github,vscode" alt="Tech Stack">
+  <img src="https://github-readme-stats.vercel.app/api?username=sourabhk2003&show_icons=true&hide_border=true&rank_icon=github" alt="Sourabh's GitHub Statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhk2003&layout=compact&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
-  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
+  <img src="https://streak-stats.demolab.com?user=sourabhk2003&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-# Featured Projects
+## Contribution Graph
 
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-## Smart Weather Station
-
-IoT-based weather monitoring project using a microcontroller and sensors.
-
-**Focus:** IoT · Sensors · Embedded Systems
-
-<a href="https://github.com/sourabhk2003/Smart-Weather-Station">
-<img src="https://img.shields.io/badge/View%20Project-0E75B6?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-
-
-## Automatic Licence Plate Recognition
-
-Computer vision project for automatic licence plate recognition.
-
-**Focus:** Python · Computer Vision · Image Processing
-
-<a href="https://github.com/sourabhk2003/Automatic-Licence-Plate-Recognition">
-<img src="https://img.shields.io/badge/View%20Project-0E75B6?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## Music Controller by Hand
-
-Gesture-based project for controlling music using hand movements.
-
-**Focus:** Python · Computer Vision · Hand Tracking
-
-<a href="https://github.com/sourabhk2003/Music_Controller_by_Hand">
-<img src="https://img.shields.io/badge/View%20Project-0E75B6?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-## Zoom Any Picture Using Hand Gestures
-
-Computer vision project for interacting with images using hand gestures.
-
-**Focus:** Python · Computer Vision · Gesture Recognition
-
-<a href="https://github.com/sourabhk2003/Zoom-Any-Picture-Using-Hand-Gestures-">
-<img src="https://img.shields.io/badge/View%20Project-0E75B6?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</td>
-
-</tr>
-</table>
+[![Sourabh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sourabhk2003&hide_border=true)](https://github.com/sourabhk2003)
 
 ---
 
-# Coding Practice
+## Connect With Me
 
-<p align="center">
-
-<a href="https://github.com/sourabhk2003/data-structures-algorithms">
-<img src="https://img.shields.io/badge/DSA-Practice-0E75B6?style=for-the-badge">
-</a>
-
-<a href="https://github.com/sourabhk2003/HackerRank">
-<img src="https://img.shields.io/badge/HackerRank-Solutions-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white">
-</a>
-
-<a href="https://github.com/sourabhk2003/CS50x_Assignments_2025">
-<img src="https://img.shields.io/badge/CS50x-Assignments-111111?style=for-the-badge">
-</a>
-
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sourabhk2003)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sourabh-kushwah/)
 
 ---
 
-# Currently Learning
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Python-Advanced-3776AB?style=flat-square&logo=python&logoColor=white">
-
-<img src="https://img.shields.io/badge/SQL-Analytics-4479A1?style=flat-square&logo=mysql&logoColor=white">
-
-<img src="https://img.shields.io/badge/Machine%20Learning-Learning-F7931E?style=flat-square">
-
-<img src="https://img.shields.io/badge/Generative%20AI-Exploring-8E75B2?style=flat-square">
-
-<img src="https://img.shields.io/badge/RAG-Exploring-412991?style=flat-square">
-
-</p>
-
----
-
-# GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sourabhk2003&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub Stats">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhk2003&layout=compact&hide_border=true" alt="Top Languages">
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=sourabhk2003&hide_border=true" alt="GitHub Streak">
-
-</p>
-
----
-
-# Let's Connect
-
-<p align="center">
-
-<a href="https://github.com/sourabhk2003">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</p>
-
----
-
-<p align="center">
-  <strong>Learning • Building • Improving</strong>
-</p>
+*Always learning, building, and improving.*
