@@ -44,25 +44,31 @@ I'm interested in solving real-world problems through Python, SQL, data analytic
 
 ## Featured Projects
 
-### 1. Smart Weather Station
+### Alien Invasion Game
+
+A 2D alien-shooting game built with Python and Pygame.
+
+[![View Repository](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/sourabhk2003/Alien-Invasion/tree/master)
+
+### Smart Weather Station
 
 A weather monitoring project using sensors and a microcontroller.
 
 [View Repository](https://github.com/sourabhk2003/Smart-Weather-Station)
 
-### 2. Automatic Licence Plate Recognition
+### Automatic Licence Plate Recognition
 
 A computer vision project for detecting and recognizing vehicle licence plates.
 
 [View Repository](https://github.com/sourabhk2003/Automatic-Licence-Plate-Recognition)
 
-### 3. Music Controller by Hand
+### Music Controller by Hand
 
 A computer vision project that uses hand gestures to control music playback.
 
 [View Repository](https://github.com/sourabhk2003/Music_Controller_by_Hand)
 
-### 4. Zoom Any Picture Using Hand Gestures
+### Zoom Any Picture Using Hand Gestures
 
 A project that uses hand gestures to zoom in on images.
 
