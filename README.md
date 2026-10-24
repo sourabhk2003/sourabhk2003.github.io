@@ -113,9 +113,11 @@ A project that uses hand gestures to zoom in on images.
 
 ---
 
-## Contribution Graph
 
-[![Sourabh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sourabhk2003&hide_border=true)](https://github.com/sourabhk2003)
+## Contribution Graph
+## GitHub Contributions
+
+![GitHub Contribution Grid](https://ghchart.rshah.org/sourabhk2003)
 
 ---
 
